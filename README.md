@@ -59,8 +59,8 @@ BilledIn is a simple billing system (Desktop application) for small businesses. 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/mahadev0811/BilledIn.git
-   cd BilledIn
+   https://github.com/Akshayffb/Desktop-Billing-Software.git
+   cd Desktop-Billing-Software
    ```
 
 2. **Create and Activate a Virtual Environment:**
